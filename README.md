@@ -14,7 +14,7 @@ Sistema de control y visualizacion de parqueadero desarrollado en C++ y Python, 
 
 ## Diagrama UML
 
-![Diagrama UML](Diagrama_UML.png)
+![Diagrama UML](Diagrama_UML.jpg)
 
 ---
 
