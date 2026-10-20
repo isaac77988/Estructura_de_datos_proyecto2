@@ -12,6 +12,12 @@ Sistema de control y visualizacion de parqueadero desarrollado en C++ y Python, 
 
 ---
 
+## Diagrama UML
+
+![Diagrama UML](Diagrama_UML.png)
+
+---
+
 ## Compilacion y Ejecucion
 
 1. Compilar el Servidor y la DLL (C++):
