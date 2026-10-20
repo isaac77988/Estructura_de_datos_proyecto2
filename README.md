@@ -31,3 +31,5 @@ python visualizador_python/main.py
 
 4. Ejecutar el Generador (Cliente):
 ./generador_cpp/generador_app.exe
+
+winget install BrechtSanders.WinLibs.POSIX.UCRT --source winget
